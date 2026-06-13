@@ -105,9 +105,7 @@ loser, a documented cautionary result.
   counts and timestamps against both the backtester and an independent TradingView port.
   Includes risk-based sizing, auto-reconnect with live position reconciliation, and
   good-till-cancelled bracket management for overnight holds.
-- **Prop-firm campaign model.** A Monte-Carlo plus closed-form (gambler's-ruin / Lundberg
-  adjustment-coefficient) model for optimizing evaluation and payout campaigns under
-  trailing-drawdown account rules.
+
 
 ---
 
