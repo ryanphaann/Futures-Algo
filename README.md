@@ -111,7 +111,7 @@ loser, a documented cautionary result.
 
 ## Honest caveats
 
-This project is documented warts-and-all:
+This project is documented:
 
 - Headline figures are **in-sample**; the realistic figure is the lower out-of-sample one.
 - The large compounded dollar figures come from **compounding + pyramiding** and assume
@@ -121,15 +121,3 @@ This project is documented warts-and-all:
 
 ---
 
-## What's deliberately omitted
-
-To protect the edge, this repository **does not include the signal logic**: the exact entry
-trigger, the regime filter and its parameters, the trade-timing rules, the target/stop
-construction, the signal timeframe, or any production parameter values. What is published is
-*how the work was done and how it survived testing* — the reproducible methodology and the
-honest results — not the recipe. The runnable engine is kept private.
-
----
-
-*A research case study — not investment advice. Past performance, especially in-sample,
-friction-free backtests, does not guarantee future results.*
