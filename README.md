@@ -3,10 +3,7 @@
 A multi-year research project building and validating a systematic breakout strategy on
 US equity-index futures, backtested over **20 years of 1-minute data**.
 
-> **This repository is a methodology & results case study.** The alpha-defining signal
-> logic is intentionally withheld — see [*What's deliberately omitted*](#whats-deliberately-omitted).
-> What's documented here is *how the system was built, tested, and stress-tested*, and how
-> honestly it held up — not the recipe.
+> **This repository is a methodology & results case study.** 
 
 ---
 
