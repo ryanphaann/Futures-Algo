@@ -114,8 +114,7 @@ loser, a documented cautionary result.
 This project is documented:
 
 - Headline figures are **in-sample**; the realistic figure is the lower out-of-sample one.
-- The large compounded dollar figures come from **compounding + pyramiding** and assume
-  **no slippage** — real fills at size would differ materially.
+- The large compounded dollar figures come from **compounding + pyramiding** 
 - Performance has **decayed in the most recent regime** — the latest walk-forward window
   underperformed across instruments. Disclosed, not hidden.
 
