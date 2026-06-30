@@ -75,12 +75,12 @@ and a demonstration of *not fooling oneself*:
 
 | Asset class | Result | Verdict |
 |---|---|---|
-| Equity-index futures (NQ, ES) | PF 1.30–1.53, out-of-sample validated | ✅ home turf |
+| Equity-index futures (NQ, ES) | PF 1.30–1.53, out-of-sample validated | ✅ |
 | Silver | PF 1.18, Sharpe 0.54, 7/9 out-of-sample windows positive | ✅ transfers (the config never touched silver — genuinely OOS) |
 | Gold | PF 1.12 all-hours; an hour-filtered variant **failed** its walk-forward | ⚠️ marginal |
 | US mega-cap stocks | A long-only edge on 2 of 6 names; the short side loses on all 6 | ⚠️ narrow + bull-market beta |
 | Russell 2000 | Breakeven over an 8.9-year (recent-only) sample | ⚠️ confounded by regime |
-| FX futures (4 major pairs, incl. the most liquid) | 0-for-4, ~breakeven, ~30% win | ❌ wrong asset class |
+| FX futures (4 major pairs, incl. the most liquid) | 0-for-4, ~breakeven, ~30% win | ❌ |
 | Sub-hourly timeframes | Monotonically worse — fixed costs dominate smaller moves | ❌ |
 
 The findings generalize cleanly: this is an **equity-index trend phenomenon**, it requires
